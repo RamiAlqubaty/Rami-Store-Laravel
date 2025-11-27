@@ -45,7 +45,7 @@
 
 - **Backend:** Laravel (PHP Framework)
 - **Frontend:** Blade Templates (و HTML/CSS و Bootstrap أو غيره حسب استخدامك)
-- **Database:** MySQL (أو أي قاعدة بيانات مدعومة من Laravel)
+- **Database:** MySQL
 - **أدوات أخرى:** Composer, Artisan CLI
 
 ---
@@ -57,8 +57,7 @@
 - PHP (يفضّل إصدار حديث متوافق مع إصدار Laravel المستخدم)
 - Composer
 - خادم ويب مثل: Apache أو Nginx (أو استخدام السيرفر المدمج مع Laravel)
-- MySQL أو أي قاعدة بيانات أخرى
-- Node.js & NPM (إذا كنت تستخدم Assets مبنية بـ Laravel Mix / Vite)
+- MySQL 
 
 ---
 
